@@ -23,9 +23,11 @@ The job postings on their site are grouped by different teams that they belong t
 ---
 
 ## 💡 To run the scraper locally 
+- Clone the repository
 - Follow the [scrapy installation guide](https://docs.scrapy.org/en/latest/intro/install.html)
 
 - Then run 
     ```py 
     scrapy crawl careers -O <output_file>
     ```
+- See [the docs](https://github.com/VolVox99/EmsiBG-Career-Scraper) for more details

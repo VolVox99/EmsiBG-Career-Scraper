@@ -31,11 +31,11 @@ The full harvested data is available to view and download in multiple different 
 ---
 
 ## 💡 To run the scraper locally 
-- Clone the repository
 - Follow the [scrapy installation guide](https://docs.scrapy.org/en/latest/intro/install.html)
-
-- Then run 
+- Clone the repository
+- `cd` into the EmsiBG directory
+-  run 
     ```py 
     scrapy crawl careers -O <output_file>
     ```
-- See the [scrapy documenation](https://github.com/VolVox99/EmsiBG-Career-Scraper) for more details
+See the [scrapy documenation](https://github.com/VolVox99/EmsiBG-Career-Scraper) for more details

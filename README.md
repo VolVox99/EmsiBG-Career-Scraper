@@ -30,4 +30,4 @@ The job postings on their site are grouped by different teams that they belong t
     ```py 
     scrapy crawl careers -O <output_file>
     ```
-- See [the docs](https://github.com/VolVox99/EmsiBG-Career-Scraper) for more details
+- See the [docs](https://github.com/VolVox99/EmsiBG-Career-Scraper) for more details

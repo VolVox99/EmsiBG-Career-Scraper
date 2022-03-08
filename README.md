@@ -8,6 +8,11 @@ Emsi is a labor market data company with headquarters in Boston and Moscow, Idah
 
 The job postings on their site are grouped by different teams that they belong to. For each group there are multiple different job postings.
 
+The code crawls the site and extracts all of the job postings for the different teams. From there it extracts the details for each posting, which are detailed below.
+
+This data can be used to extract various insights. For example, one could sort the jobs by the date posted, and find the jobs that have been open the longest. It would be reasonable to suppose that apply for those jobs would have a higher than average acceptance rage, presuming you meet the qualifications.
+
+The data can also be used to monitor the pace at which different teams are opening new positions. One could examine the change in the number of positions posted on a particular team over time to see if the pace is quickening.
 ---
 ### ✔️ Fields Scraped & Example Row
 |Job Title                              |Job Description                                                                |Location                  |Department        |Commitment         |Team                 |Team Openings|Date Posted        |URL                                                                        |ID                                  |

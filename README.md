@@ -2,5 +2,5 @@
 Using scrapy, we scrape open position data from Emsi's website.
 
 The already harvested data is available to view and download in two different formats.
-* [data.csv]('/data.csv')
-* [data.json]('/data.json')
+* [data.csv](/data.csv)
+* [data.json](/data.json)
